@@ -95,7 +95,7 @@ The dashboard includes dropdown filters for:
  
 Main dashboard visualization:
  
-![Salary Dashboard](Chart.png)
+![Salary Dashboard](Screenshots/Chart.png)
  
 ---
  
