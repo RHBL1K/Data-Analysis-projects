@@ -1,6 +1,6 @@
 # Data Jobs Dashboard 2.0 w/ Power BI
 
-![Data Jobs Dashboard GIF](../imgs/dashboardgif.gif)
+![Data Jobs Dashboard GIF](imgs/dashboargif.gif)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ The project is based on a real-world dataset of data science job postings from 2
 
 ## Dashboard File
 
-[`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix)
+[`DashboardN2.pbix`](DashboardN2.pbix)
 
 ---
 
@@ -40,7 +40,7 @@ This project demonstrates the following Power BI capabilities:
 
 ## Dashboard Overview (Version 2.0 – Single Page Focus)
 
-![Data Jobs Dashboard v2.0](../imgs/dashboard.png)
+![Dashboard](imgs/dashboard.png)
 
 Version 2.0 consolidates all insights into a **single, focused dashboard page** that provides a quick overview of the data job market.
 
