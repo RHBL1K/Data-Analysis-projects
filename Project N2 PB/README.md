@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Navigating the data job market can be challenging — information is often scattered across multiple sources. This dashboard (V2.0) was created for **job seekers, career switchers, and professionals exploring new opportunities** to quickly understand key market trends.
+Navigating the data job market can be challenging - information is often scattered across multiple sources. This dashboard (V2.0) was created for **job seekers, career switchers, and professionals exploring new opportunities** to quickly understand key market trends.
 
 The project is based on a real-world dataset of data science job postings from 2024, including detailed information on roles, salaries, and locations. The result is a clean, single-page dashboard designed for efficient job market and compensation analysis.
 
@@ -18,10 +18,10 @@ The project is based on a real-world dataset of data science job postings from 2
 
 This project demonstrates the following Power BI capabilities:
 
-- 🎨 **Dashboard Design** — intuitive and visually appealing layout  
-- ⚙️ **Power Query (ETL)** — data cleaning and transformation  
-- 🔗 **Data Modeling** — Star Schema implementation  
-- 🧮 **DAX Fundamentals** — calculated measures and aggregations  
+- 🎨 **Dashboard Design** - intuitive and visually appealing layout  
+- ⚙️ **Power Query (ETL)** - data cleaning and transformation  
+- 🔗 **Data Modeling** - Star Schema implementation  
+- 🧮 **DAX Fundamentals** - calculated measures and aggregations  
 
 ### Visualizations
 
@@ -38,7 +38,7 @@ This project demonstrates the following Power BI capabilities:
 
 ---
 
-## Dashboard Overview (Version 2.0 – Single Page Focus)
+## Dashboard Overview (Version 2.0 - Single Page Focus)
 
 ![Dashboard](imgs/dashboard.png)
 
